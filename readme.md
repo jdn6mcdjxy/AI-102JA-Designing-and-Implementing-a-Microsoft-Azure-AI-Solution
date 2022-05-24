@@ -38,4 +38,4 @@ At this time, we are not accepting external contributions to this repo. If you h
 - どの MCT も GitHub repro のコードまたはコンテンツにプル要求を送信でき、Microsoft とコースの作成者は、必要に応じてコンテンツとラボ コードの変更をトリアージして含めます。
 
 - バグ、変更、改善、アイデアを提出できます。  新しい Azure 機能を見つけましたか？  新しいデモを送信する。
-- https://jpn01.safelinks.protection.outlook.com/?url=https%3A%2F%2F06d450f2e2d24342b7f5b16522145547.svc.dynamics.com%2FEvtMgmt%2Fapi%2Fv2.0%2Fcheckin%2Fstream%3FsessionRegistrationId%3DSR%252076M4FGC3ZH2LWWC5B2MRRL5L8H%26redirectUri%3Dhttps%253A%252F%252Fteams.microsoft.com%252Fl%252Fmeetup-join%252F19%25253ameeting_MWQxMTQ2M2UtNWRkOC00OTczLWFmNTQtY2RmZTVmNTVhM2E1%252540thread.v2%252F0%253Fcontext%253D%25257b%252522Tid%252522%25253a%25252272f988bf-86f1-41af-91ab-2d7cd011db47%252522%25252c%252522Oid%252522%25253a%252522c5825cfd-a05b-4288-8c3d-cec2cf365dd6%252522%25257d&data=05%7C01%7Cshirai%40nekonet.co.jp%7Cd657e3333ffd441ff78d08da31565b9e%7C706855ad25eb4c09bf45f062cb4b79bf%7C0%7C0%7C637876544210749351%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=o6FyBPgBhMBPwJstwzBo2%2Fr4e8skL4YiVXc6tv38Ppw%3D&reserved=0
+
